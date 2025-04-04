@@ -46,8 +46,8 @@ cargo run -- -help
    ```
 2. Clone this repository:
    ```sh
-   git clone <repo_url>
-   cd <repo_folder>
+   git clone https://github.com/RishinR/ip_sniffer.git
+   cd ip_sniffer
    ```
 3. Build the project:
    ```sh
